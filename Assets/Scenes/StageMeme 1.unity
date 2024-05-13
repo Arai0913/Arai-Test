@@ -206,6 +206,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4568388244660046225, guid: b41bc0f9d89b60248931ff0dd71a92aa, type: 3}
+      propertyPath: accel
+      value: 800
+      objectReference: {fileID: 0}
     - target: {fileID: 4568388244660046226, guid: b41bc0f9d89b60248931ff0dd71a92aa, type: 3}
       propertyPath: m_Name
       value: SpringBord
@@ -6026,6 +6030,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rotationSpeed: 10
   rotation_time: 1
+  arm: {fileID: 0}
+  limit_arm: 0
+  limit_arm_1: 0
 --- !u!54 &634809817
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -11159,6 +11166,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rotationSpeed: 10
   rotation_time: 1
+  arm: {fileID: 0}
+  limit_arm: 0
+  limit_arm_1: 0
 --- !u!54 &766302241
 Rigidbody:
   m_ObjectHideFlags: 0
