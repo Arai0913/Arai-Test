@@ -18742,7 +18742,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  desitance: 0
+  desitance: 1
 --- !u!195 &684479579
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -59788,7 +59788,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  desitance: 10
+  desitance: 15
 --- !u!195 &6442020320890151969
 NavMeshAgent:
   m_ObjectHideFlags: 0
